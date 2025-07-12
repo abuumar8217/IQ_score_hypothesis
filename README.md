@@ -21,7 +21,6 @@ This repository contains a detailed walkthrough of hypothesis testing using real
 
 | Scenario | Test Type | Tail Direction |
 |----------|-----------|----------------|
-| Manufacturing defect rate < 5% | Proportion Z-test | Left-tailed |
 | Prep course test scores > average | Mean Z-test | Right-tailed |
 | School IQ > population average | Z-test | Right-tailed |
 | Customer support < 5 min response | T-test | Left-tailed |
